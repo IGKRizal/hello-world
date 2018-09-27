@@ -1,2 +1,2 @@
 # hello-world
-repoditory pertama
+repository pertama
